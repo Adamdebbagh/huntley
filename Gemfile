@@ -16,6 +16,7 @@ gem 'jquery-datetimepicker-rails'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'font-awesome-rails'
+gem 'rails-html-sanitizer'
 
 group :development do
   gem 'spring'
